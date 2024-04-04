@@ -31,7 +31,9 @@ font-family: "Lobster", sans-serif;
 
 .escola {
     backeground-image: linear-gradient(#424E61, #16CFF8);
-    color: white: display:flex justifiy-content:cente;
+    color: white;
+    display:flex;
+    justifiy-content:cente;
     align-itens: center;
     padding: 24px 0;
 }
@@ -42,4 +44,8 @@ font-family: "Lobster", sans-serif;
 
 .escola-titulo {
     padding: 24px 0;
+}
+.estudantes-imagem{
+    width:24px;
+    padding:4px 8px;
 }
